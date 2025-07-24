@@ -30,7 +30,7 @@
 2、Pull and Build
 
 ```bash
-git clone https://github.com/GUI-for-Cores/GUI.for.SingBox.git
+git clone https://github.com/iprodev/GUI.for.SingBox.git
 
 cd GUI.for.SingBox/frontend
 
@@ -43,4 +43,4 @@ wails build
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/GUI-for-Cores/GUI.for.SingBox.svg)](https://starchart.cc/GUI-for-Cores/GUI.for.SingBox)
+[![Stargazers over time](https://starchart.cc/iprodev/GUI.for.SingBox.svg)](https://starchart.cc/iprodev/GUI.for.SingBox)
