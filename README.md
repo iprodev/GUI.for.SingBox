@@ -1,7 +1,7 @@
 <div align="center">
   <img src="build/appicon.png" alt="GUI.for.SingBox" width="200">
   <h1>GUI.for.SingBox</h1>
-  <p>A GUI program developed by vue3 + wails.</p>
+  <p>A GUI program developed by vue3 + wails and Optimized for Iranian Users.</p>
 </div>
 
 ## Preview
